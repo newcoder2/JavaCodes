@@ -20,7 +20,7 @@ public class trigger {
 		p.setComments("No comments for this project");
 		System.out.println("Comments - " + p.getComments());
 		
-		
+		//Random funtion has been added
 		
 		p.setName("crazy project");
 		
